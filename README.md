@@ -31,7 +31,7 @@ The project includes a `.bak` file for easy database restoration:
 
 1. Open **SQL Server Management Studio (SSMS)**.
 2. Right-click on `Databases` → **Restore Database**.
-3. Select **Device** → Browse to `database/AnimalTrackingSystem.bak`.
+3. Select **Device** → Browse to `database/Sample.bak`.
 4. Click **Restore**.
 5. Update the connection string in `App.config` if needed.
 
