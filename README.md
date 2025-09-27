@@ -68,4 +68,4 @@ The project includes a `.bak` file for easy database restoration:
 
 ## Author
 **Dulan Dhanush Kandeepan**  
-[LinkedIn Profile](your-linkedin-url) | [GitHub Profile](your-github-url)
+(https://www.linkedin.com/in/dulan-dhanush-b76a44300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
