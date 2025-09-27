@@ -17,7 +17,7 @@ A **Windows Forms application** for managing animal records, including ID, speci
 ## Database Structure
 | Field Name       | Data Type | Description                   |
 |-----------------|-----------|-------------------------------|
-| AnimalID        | int       | Unique identifier for animals |
+| AnimalID        |  nvarchar | Unique identifier for animals |
 | Species         | nvarchar  | Species name                  |
 | Location        | nvarchar  | Last known location           |
 | HealthStatus    | nvarchar  | Health condition of animal    |
